@@ -397,7 +397,7 @@ a {
 }
 
 .speaker-container {
-  margin: 40px 10px;
+  margin: 10px 10px 10px 10px;
 }
 
 .speaker .main-section-h1 {
@@ -406,11 +406,11 @@ a {
 
 .speaker-list {
   margin: 40px auto;
-  width: 300px;
+  width: 600px;
   height: auto;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: start;
 }
 
 .speaker-content {
@@ -420,10 +420,11 @@ a {
 }
 
 .speaker-img {
-  width: 80px;
-  height: 80px;
+  width: 178px;
+  height: 177px;
   margin-right: 15px;
   box-shadow: -10px -10px 5px -3px rgba(0, 0, 0, 0.28);
+  margin-top: 0;
 }
 
 .speaker-header {
@@ -449,6 +450,7 @@ a {
 
 .speaker-description {
   font-size: 1rem;
+  font-family: 'Lato', sans-serif;
   font-weight: 300;
 }
 
@@ -481,7 +483,7 @@ a {
     height: auto;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
   }
 
   .speaker-content {
@@ -491,8 +493,8 @@ a {
   }
 
   .speaker-img {
-    width: 100px;
-    height: 100px;
+    width: 178px;
+    height: 177px;
     margin-right: 20px;
   }
 
@@ -501,7 +503,9 @@ a {
   }
 
   .speaker-description {
-    font-size: 0.9rem;
+    font-size: 1.08rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
   }
 
   .speaker-profession {
@@ -510,12 +514,13 @@ a {
 
   .speaker-line {
     border-bottom: 2px solid #1d1d1d;
+    font-family: 'Lato', sans-serif;
   }
 }
 
 @media screen and (min-width: 920px) {
   .speaker-list {
-    width: 500px;
+    width: 800px;
   }
 }
 
@@ -676,6 +681,9 @@ a {
 }
 
 .section-2 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 10%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -725,6 +733,7 @@ a {
 @media (min-width: 768px) {
   .about-container {
     background: url(./images/about_bg_01.png);
+    background-color: #d3d3db;
   }
 
   .top-h1-about {
@@ -735,7 +744,7 @@ a {
     color: #ec5242;
     font-size: 4rem;
     text-align: center;
-    font-weight: 700;
+    font-weight: 850;
     width: 60%;
     margin: 0 auto;
   }
@@ -770,6 +779,7 @@ a {
 
   .about-h2 {
     text-align: center;
+    font-size: 2rem;
   }
 
   .about-par {
