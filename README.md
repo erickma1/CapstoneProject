@@ -62,7 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://erickma1.github.io/CapstoneProject)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
