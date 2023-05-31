@@ -397,7 +397,7 @@ a {
 }
 
 .speaker-container {
-  margin: 10px 10px 10px 10px;
+  margin: 20px 10px 10px 10px;
 }
 
 .speaker .main-section-h1 {
@@ -405,12 +405,11 @@ a {
 }
 
 .speaker-list {
-  margin: 40px auto;
-  width: 600px;
   height: auto;
   display: flex;
   justify-content: center;
   align-items: start;
+  padding: 10px 40px 10px 10px;
 }
 
 .speaker-content {
@@ -474,16 +473,16 @@ a {
 
   .speaker-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 74px;
+    padding: 0 120px 0 120px;
   }
 
   .speaker-list {
-    width: 300px;
-    height: auto;
     display: flex;
     justify-content: center;
-    align-items: start;
+    margin-bottom: 44.27px;
+    padding: 20px 40px 0 0;
   }
 
   .speaker-content {
@@ -520,7 +519,7 @@ a {
 
 @media screen and (min-width: 920px) {
   .speaker-list {
-    width: 800px;
+    width: 100%;
   }
 }
 
