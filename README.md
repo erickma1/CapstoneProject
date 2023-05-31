@@ -168,7 +168,7 @@ If you like this project give it a⭐️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Microverse 
-- Cindy Shin (https://www.behance.net/adagio07)
+- Design idea by Cindy Shin in Behance, the author of the original design (https://www.behance.net/adagio07)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
