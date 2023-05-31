@@ -62,7 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://erickma1.github.io/CapstoneProject)
+- [Live Demo Link](https://erickma1.github.io/CapstoneProject/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +76,7 @@ In order to run this project you need:
 
 - Modern updated Web Browser such as Chrome, Safari, Firefox, among others
 - git 
-- code editor
+- code editor (vscode recommended)
 - Javascript enabled
 - node js
 - npm
