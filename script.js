@@ -89,7 +89,7 @@ const programCategoriesData = [
   {
     icon: 'images/program_icon_03.png',
     title: 'Forum',
-    description: 'Have time to ask questions, share opinions, and interact with others who have similar interests',
+    description: 'Have time to ask many questions, share opinions, and interact with others who have similar interests',
   },
   {
     icon: 'images/program_icon_04.png',
