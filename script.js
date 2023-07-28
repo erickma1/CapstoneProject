@@ -99,7 +99,7 @@ const programCategoriesData = [
   {
     icon: 'images/program_icon_05.png',
     title: 'Party',
-    description: 'Get networking opportunities for yourself and others after the main event',
+    description: 'Get many networking opportunities for yourself and others after the main event',
   },
 ];
 
